@@ -12,6 +12,7 @@
 
 #include "philo.h"
 
+
 int	initial(t_philo *philo, char **str, int ac)
 {
 	philo->d1 = 0;
